@@ -13,7 +13,6 @@ const btnRoll = document.querySelector('.btn--roll');
 const btnHold = document.querySelector('.btn--hold');
 let scores, currentScore, activePlayer, playing;
 
-
 // Starting conditions
 const init = function () {
   scores = [0, 0];
@@ -75,7 +74,7 @@ btnHold.addEventListener('click', function () {
       scores[activePlayer];
 
     // 2. Check if 100
-    if (scores[activePlayer] >= 20) {
+    if (scores[activePlayer] >= 100) {
       // a. win
       playing = false;
       diceEl.classList.add('hidden');
