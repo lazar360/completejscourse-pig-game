@@ -15,7 +15,7 @@ The application is full javascript made.
 Users can do the following :
 <ul>
     <li>Roll the dice</li>
-    <li>Hold their scrores</li>
+    <li>Hold their scores</li>
     <li>Start a new game</li>
 </ul>
 
