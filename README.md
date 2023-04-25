@@ -1,4 +1,4 @@
-<h1>Pig Game</h1>
+<h1>Dice Game</h1>
 <h2>Table of contents</h2>
     <ul>
         <li>Introduction</li>
