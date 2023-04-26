@@ -8,7 +8,7 @@
 
 <h2>Introduction</h2>
 
-A game with two plyers.
+A game with two players.
 
 <h2>Features</h2>
 The application is full javascript made.
